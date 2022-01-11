@@ -1,0 +1,6 @@
+[submodule "restreamer/Nginx/Livestream.Video.Nginx"]
+	path = restreamer/Nginx/Livestream.Video.Nginx
+	url = https://github.com/OpenNetworkFoundation/Livestream.Video.Nginx
+[submodule "client/OBS/client.OBS.Resteram"]
+	path = client/OBS/client.OBS.Resteram
+	url = git@github.com:OpenNetworkFoundation/client.OBS.Resteram.git
